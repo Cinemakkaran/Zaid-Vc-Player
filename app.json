@@ -34,7 +34,7 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "DaisySupport_Official"
+      "value": "tamil_chat_group_1"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
@@ -53,12 +53,12 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": " https://telegra.ph/file/dcfdf612e499eef0e0b1f.png"
+      "value": "https://www.online-convert.com/downloadfile/98a637b0-445a-4e70-a282-e92b6ac0cf11/ca5ca0df-1024-408e-acaa-52880c896df5"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "DaisyXupdates"
+      "value": "socia_mechanic"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
